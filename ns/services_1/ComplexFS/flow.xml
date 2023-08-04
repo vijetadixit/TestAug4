@@ -821,10 +821,6 @@
 </MAP>
 </INVOKE>
 
-<INVOKE TIMEOUT="" SERVICE="Basics:GetFile" VALIDATE-IN="$none" VALIDATE-OUT="$none">
-  <COMMENT></COMMENT>
-</INVOKE>
-
 <INVOKE TIMEOUT="" SERVICE="Basics:mapservice" VALIDATE-IN="$none" VALIDATE-OUT="$none">
   <COMMENT></COMMENT>
 
